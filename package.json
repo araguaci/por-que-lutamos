@@ -1,0 +1,22 @@
+{
+  "name": "pdf-viewer-portfolio",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^3.6.172",
+    "vue": "^3.2.47",
+    "vue-float-action-button": "^0.7.9",
+    "vue-float-menu": "^1.9.1",
+    "vue-pdf": "^4.3.0",
+    "vue-router": "^4.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.1",
+    "vite": "^4.3.4"
+  }
+}
